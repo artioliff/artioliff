@@ -1,6 +1,6 @@
 # Opa! Eu sou o Artioli 👋
 
-Sou desenvolvedor Fullstack apaixonado por tecnologia, games e automação.
+Sou desenvolvedor Fullstack apaixonado por tecnologia, games e automação.  
 Atualmente estudando **React**, **Node.js** e **DevOps**.
 
 ## 🚀 Tecnologias:
@@ -13,11 +13,12 @@ Atualmente estudando **React**, **Node.js** e **DevOps**.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 🌐 Redes
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
 ## 📊 Estatísticas
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artioliff&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artioliff&layout=compact&theme=dracula)
+
+</div>
