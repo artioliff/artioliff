@@ -5,7 +5,6 @@
 
 ###
 
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -18,11 +17,15 @@
 ### 
 
 <!-- Links -->
+## Links:
 <div align="left">
   <a href="https://www.linkedin.com/in/artioliff/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
+### 
+
 <!-- Portfolio -->
 ## Portfolio:
+- [Site](https://artioliff.github.io/portfolio/)
